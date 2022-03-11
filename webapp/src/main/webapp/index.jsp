@@ -12,7 +12,7 @@
       <br>   
       <button type="submit">Login</button>
       <label>
-        <input type="checkbox" unchecked="unchecked" name="remember"> Remember me
+        <input type="checkbox" unchecked="checked" name="remember"> Remember me
       </label>
     </div>
   
